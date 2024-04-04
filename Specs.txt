@@ -1,1 +1,0 @@
-O programa deve deixar criar um cliente, sendo que cada cliente terá número de contribuinte, número de cliente, telemóvel (opcional), e-mail (opcional) e nome
